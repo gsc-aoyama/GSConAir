@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+
+<title>GeoGeo West @ Furuhashi Lab / GSC on Air</title>
+<link>https://www.youtube.com/channel/UCrHdfBuNA3qyfLNAPyv3T8w</link>
+<description>空間情報の最近の話題をインターネットラジオで毎週月曜18時前後に約１時間配信してみます！ＭＣは、青山学院大学地球社会共生学部古橋教授と東京大学空間情報科学研究センターの瀬戸先生のジオ系コンビ。たまに特別ゲストあり。</description>
+<language>Japanese</language>
+
+<item>
+<title>#GeoGeoWest @ Furuhashi Lab,2015-09-28</title>
+<description>オープンソースGISの祭典「FOSS4G Seoul」とオープンストリートマップのローカルカンファレンス「State of the Map Asia/Taiwan」の様子をそれぞれ参加してきた @mapconcierge と @tosseto が共有！</description>
+<pubDate>Mon, 28 Sep 2015 17:00:00 +0900</pubDate>
+<enclosure url="https://github.com/gsc-aoyama/GSConAir/raw/master/GeoGeoWest_FuruhashiLab_2015-09-28.m4a" length="97894400" type="audio/mpeg" />
+</item>
+
+</channel>
+</rss>
